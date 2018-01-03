@@ -27,3 +27,5 @@ A tree was created based on the MAFFT multiple sequence alignment using RAxML.
 [Enhanced methods for unbiased deep sequencing of Lassa and Ebola RNA viruses from clinical and biological samples](https://www.ncbi.nlm.nih.gov/pubmed/25403361).
 
 [Origin of the dengue virus outbreak in Martin County, Florida, USA 2013](https://www.ncbi.nlm.nih.gov/pubmed/25664240).
+
+**Disclaimer**. Please note that this data is still based on work in progress and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments – we’ll buy beers for #ResearchParasites that spot flaws and faults in the data and come up with improvements!
