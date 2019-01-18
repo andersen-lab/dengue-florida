@@ -1,6 +1,7 @@
-*Summary: Full-length Dengue virus genome from 2013 outbreak in Martin County, Florida. [Data here](https://github.com/andersen-lab/dengue-florida).*
+#### Summary
+Full-length Dengue virus genome from 2013 outbreak in Martin County, Florida.
 
-#### Overview
+#### Methods
 Serum was obtained from a single patient during the 2013 Dengue virus serotype 1 outbreak in Martin County in Florida. Patient serum (250uL) was inoculated into a T-25 flask of C6/36 cells, incubated @ RT for 20 days, blind passaged, and incubated for another 31 days. After this first passage, the sample was split into two and one sample (DV1_Vero) was subject to one additional passage in Vero cells, and the other sample (DV1_c6/36) was subject to one additional passage in C6/36 cells.
 
 #### Sequencing
